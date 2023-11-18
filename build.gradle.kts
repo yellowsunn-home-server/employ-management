@@ -85,7 +85,7 @@ sonar {
             "**/*Config*.java",
             "**/*Config*.kt",
         )
-        property("sonar.projectKey", "yellowsunn-home-server_employment-management_AYvjW9ddSRfkzjl51d1E")
+        property("sonar.projectKey", "yellowsunn-home-server_employ-management_AYvjX_ziSRfkzjl51d1P")
         property("sonar.sources", "src")
         property("sonar.sourceEncoding", "UTF-8")
         property("sonar.test.inclusions", "**/*Test.java, **/*Test.kt")
