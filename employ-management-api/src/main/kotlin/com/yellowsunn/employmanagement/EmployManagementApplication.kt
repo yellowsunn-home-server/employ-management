@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class EmployManagementApplication
 
 fun main(args: Array<String>) {
+    println("helo")
     runApplication<EmployManagementApplication>(*args)
 }
